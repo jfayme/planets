@@ -4,4 +4,3 @@ lime
 avacado
 salt
 ## Instructions
-mash stuff together add salt
